@@ -1,2 +1,3 @@
-# Ignore all build files
+# Ignore all build files but keep the folder
 */build/*
+!*/build/.gitkeep
