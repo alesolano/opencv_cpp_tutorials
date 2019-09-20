@@ -1,3 +1,7 @@
 # Ignore all build files but keep the folder
 */build/*
 !*/build/.gitkeep
+
+# Ignore all user files (Qt Creator)
+*.user
+*.user.*
